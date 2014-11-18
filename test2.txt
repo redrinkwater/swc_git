@@ -1,2 +1,5 @@
 this is another file to add to the repo
+
 This is a different change
+
+This is added after resolving merge
